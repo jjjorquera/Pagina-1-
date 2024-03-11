@@ -1,3 +1,8 @@
+* {
+    text-align: center;
+    padding: 0;
+
+}
 footer {
     background-color: #F8F9FA;
     text-align: center;
@@ -11,4 +16,15 @@ footer {
 
 nav {
     text-align: center;
+    color: blue;
+}
+
+
+.site-content {
+    background-color: #a1a5a9;
+    
+}
+
+.text-idea {
+    margin-top: 3rem;
 }
